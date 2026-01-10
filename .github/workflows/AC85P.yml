@@ -1,4 +1,4 @@
-name: build
+name: AC85P-build
 
 on: 
   push:
